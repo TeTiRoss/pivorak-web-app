@@ -1,13 +1,13 @@
 ### Donation
 
-Ми використовуємо віджет https://wayforpay.com/uk на сторінці https://pivorak.com/donate.
+Ми використовуємо платіжну кнопку https://wayforpay.com/uk на сторінці https://pivorak.com/donate.
 
 Техпідтримка працює добре, рекомендую.
 
 ### Корисні посилання
 
 - [Налаштування магазину тут](https://m.wayforpay.com/uk/mportal/payed-block-configure/notice-update?id=50029)
-- [Налаштування webhook та перенравлень після оплати тут](https://m.wayforpay.com/uk/mportal/payed-block-configure/notice-update?id=50029)
+- [Налаштування webhook та перенравлень після оплати тут](https://m.wayforpay.com/uk/mportal/payments/button-update?id=708524)
 
 ### Webhoook / Slack повідомлення
 
